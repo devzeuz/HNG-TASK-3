@@ -4,7 +4,7 @@ export const PRODUCTS = [
     name: " Mens Cotton Casuals Short Sleeved Round Neck T-Shirt",
     price: " ₦ 6,900",
     promoprice: "₦ 9,800",
-    image: "/src/asset/image/NewArrivalWeb1.jpg",
+    image: "./public/image/NewArrivalWeb1.jpg",
     quantity: 1,
   },
   {
@@ -13,7 +13,7 @@ export const PRODUCTS = [
     price: "₦ 12,549",
     promoprice: " ₦ 25,000",
 
-    image: "/src/asset/image/NewArrivalWeb2.jpg",
+    image: "./public/image/NewArrivalWeb2.jpg",
     quantity: 1,
   },
   {
@@ -22,7 +22,7 @@ export const PRODUCTS = [
     price: "₦ 8,000",
     promoprice: " ₦ 9,800",
 
-    image: "/src/asset/image/NewArrivalWeb3.jpg",
+    image: "./public/image/NewArrivalWeb3.jpg",
     quantity: 1,
   },
   {
@@ -31,7 +31,7 @@ export const PRODUCTS = [
     price: "₦ 23,000",
     promoprice: " ₦ 28,000",
 
-    image: "/src/asset/image/NewArrivalWeb4.jpg",
+    image: "./public/image/NewArrivalWeb4.jpg",
     quantity: 1,
   },
   {
@@ -40,7 +40,7 @@ export const PRODUCTS = [
     price: "₦ 13,000",
     promoprice: " ₦ 23,000",
 
-    image: "/src/asset/image/NewArrivalWeb5.jpg",
+    image: "./public/image/NewArrivalWeb5.jpg",
     quantity: 1,
   },
   {
@@ -49,7 +49,7 @@ export const PRODUCTS = [
     price: "₦ 23,000",
     promoprice: " ₦ 33,876",
 
-    image: "/src/asset/image/NewArrivalWeb6.jpg",
+    image: "./public/image/NewArrivalWeb6.jpg",
     quantity: 1,
   },
   {
@@ -58,7 +58,7 @@ export const PRODUCTS = [
     price: "₦ 23,600",
     promoprice: " ₦ 28,000",
 
-    image: "/src/asset/image/NewArrivalWeb7.jpg",
+    image: "./public/image/NewArrivalWeb7.jpg",
     quantity: 1,
   },
   {
@@ -67,7 +67,7 @@ export const PRODUCTS = [
     price: "₦ 97,000",
     promoprice: " ₦ 105,000",
 
-    image: "/src/asset/image/NewArrivalWeb8.jpg",
+    image: "./public/image/NewArrivalWeb8.jpg",
     quantity: 1,
   },
   {
@@ -76,7 +76,7 @@ export const PRODUCTS = [
     price: "₦ 240,000",
     promoprice: " ₦ 300,000",
 
-    image: "/src/asset/image/NewArrivalWeb9.jpg",
+    image: "./public/image/NewArrivalWeb9.jpg",
     quantity: 1,
   },
   {
@@ -85,7 +85,7 @@ export const PRODUCTS = [
     price: "₦ 105,000",
     promoprice: " ₦ 152,000",
 
-    image: "/src/asset/image/NewArrival10.jpg",
+    image: "./public/image/NewArrival10.jpg",
     quantity: 1,
   },
   {
@@ -94,7 +94,7 @@ export const PRODUCTS = [
     price: "₦ 38,000",
     promoprice: " ₦ 82,000",
 
-    image: "/src/asset/image/NewArrival11.jpg",
+    image: "./public/image/NewArrival11.jpg",
     quantity: 1,
   },
   {
@@ -103,7 +103,7 @@ export const PRODUCTS = [
     price: "₦ 15,000",
     promoprice: " ₦ 32,000",
 
-    image: "/src/asset/image/NewArrival12.jpg",
+    image: "./public/image/NewArrival12.jpg",
     quantity: 1,
   },
   {
@@ -112,7 +112,7 @@ export const PRODUCTS = [
     price: "₦ 105,000",
     promoprice: " ₦ 152,000",
 
-    image: "/src/asset/image/NewArrival13.jpg",
+    image: "./public/image/NewArrival13.jpg",
     quantity: 1,
   },
   {
@@ -121,7 +121,7 @@ export const PRODUCTS = [
     price: "₦ 201,000",
     promoprice: " ₦ 240,000",
 
-    image: "/src/asset/image/NewArrival14.jpg",
+    image: "./public/image/NewArrival14.jpg",
     quantity: 1,
   },
   {
@@ -130,7 +130,7 @@ export const PRODUCTS = [
     price: "₦ 200,000",
     promoprice: " ₦ 232,000",
 
-    image: "/src/asset/image/NewArrival15.jpg",
+    image: "./public/image/NewArrival15.jpg",
     quantity: 1,
   },
 ];

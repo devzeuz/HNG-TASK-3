@@ -1,10 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
 
-export default function Header({ cartItems }) {
-  const navigate = useNavigate();
-
+export default function Header({}) {
   return (
     <>
       <div className="flex justify-between h-24 items-center p-5">
@@ -15,14 +12,10 @@ export default function Header({ cartItems }) {
           <p>Explore </p>
         </div>
         <div className="flex space-x-5 items-center ">
-          <img
-            src="/src/asset/image/List.jpg"
-            alt="now"
-            className="md:hidden"
-          />
+          <img src="./public/image/List.jpg" alt="now" className="md:hidden" />
           <Link to={"/cart"}>
             <div className="relative">
-              <img src="/src/asset/image/ShoppingCart.jpg" alt="images" />
+              <img src="./public/image/ShoppingCart.jpg" alt="images" />
 
               <p className="absolute bg-red-700 p-1 rounded-full text-white top-0 right-0 bottom-2 flex  items-center">
                 0
@@ -32,7 +25,7 @@ export default function Header({ cartItems }) {
 
           <div className="items-center space-x-2 sm:hidden md:flex ">
             <div className="border border-[#1B2F37] rounded-full p-2">
-              <img src="/src/asset/image/head.png" alt="" className="w-7" />
+              <img src="./public/image/head.png" alt="" className="w-7" />
             </div>
 
             <p className="font-extrabold text-xl">My Account</p>

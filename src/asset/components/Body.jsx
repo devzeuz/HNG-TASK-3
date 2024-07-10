@@ -6,7 +6,7 @@ export default function MainBody() {
       <div>
         <div className="flex justify-center flex-col ml-5 mr-5 items-center">
           <img
-            src="/src/asset/image/headerimage.png"
+            src="./public/image/headerimage.png"
             alt=""
             className="md:hidden"
           />
@@ -16,17 +16,13 @@ export default function MainBody() {
               {/* PRICE POOL 1 */}
 
               <div>
-                <img
-                  src="/src/asset/image/Group 2.jpg"
-                  alt=""
-                  className="w-52"
-                />
+                <img src="./public/image/Group 2.jpg" alt="" className="w-52" />
               </div>
 
               {/* SEARCH */}
               <div className="flex items-center bg-[#E2ECF1] p-2 rounded-full">
                 <img
-                  src="/src/asset/image/search (1).png"
+                  src="./public/image/search (1).png"
                   alt=""
                   className="w-5"
                 />
@@ -37,21 +33,17 @@ export default function MainBody() {
               {/* PRICE POOL 2 */}
 
               <div className="">
-                <img
-                  src="/src/asset/image/Group 1.jpg"
-                  alt=""
-                  className="w-52"
-                />
+                <img src="./public/image/Group 1.jpg" alt="" className="w-52" />
               </div>
             </div>
 
             <div>
-              <img src="/src/asset/image/RunDown.jpg" alt="" />
+              <img src="./public/image/RunDown.jpg" alt="" />
             </div>
 
             {/* THREE LINES */}
             <div>
-              <img src="/src/asset/image/Frame 36.jpg" alt="" />
+              <img src="./public/image/Frame 36.jpg" alt="" />
             </div>
           </div>
 
@@ -59,15 +51,15 @@ export default function MainBody() {
           <div className=" justify-between space-x-5 sm:hidden md:flex mx-auto mt-10">
             <div className="space-y-5">
               <div className="border border-dashed border-black">
-                <img src="/src/asset/image/HeroSmall1.jpg" alt="" />
+                <img src="./public/image/HeroSmall1.jpg" alt="" />
               </div>
-              <img src="/src/asset/image/HeroSmall3.jpg" alt="" />
-              <img src="/src/asset/image/HeroSmall2.jpg" alt="" />
+              <img src="./public/image/HeroSmall3.jpg" alt="" />
+              <img src="./public/image/HeroSmall2.jpg" alt="" />
             </div>
 
             {/* BIG SHIRT */}
             <div className="border border-solid p-1 border-black flex-0">
-              <img src="/src/asset/image/HeroLarge.jpg" alt="" />
+              <img src="./public/image/HeroLarge.jpg" alt="" />
             </div>
             <div className="space-y-3 flex-1 mt-auto">
               <p className="text-lg font-bold">Men's Solid Polo Shirt</p>
@@ -91,7 +83,7 @@ export default function MainBody() {
           <div>
             {/* SMALL SCREEN MENS WEAR DISPLAY */}
             <div className="bg-[#E2ECF1] p-5 rounded-lg md:hidden">
-              <img src="/src/asset/image/firstbodyimage.jpg" alt="" />
+              <img src="./public/image/firstbodyimage.jpg" alt="" />
               <p className="font-bold mt-2">Men's Solid Polo Shirt</p>
             </div>
           </div>

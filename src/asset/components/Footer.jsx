@@ -16,7 +16,11 @@ export default function Footer() {
               placeholder="Enter Your Email"
               className=" bg-transparent outline-none"
             />
-            <img src="/src/asset/image/envelope.png" alt="" className="w-7" />
+            <img
+              src="./public/image/envelope.png"
+              alt="envelope"
+              className="w-7"
+            />
           </div>
           <button className="bg-transparent  border border-white rounded-lg sm:w-11/12 h-12 md:w-24">
             Sign Up
