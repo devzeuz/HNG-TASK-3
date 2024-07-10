@@ -23,11 +23,11 @@ export const Products = (props) => {
           Add to Cart {cartItemsNum > 0 && <> {cartItemsNum}</>}
         </button>
         <div className="flex  ">
-          <img src="./public/image/star (2).png" alt="" className="w-6" />
-          <img src="./public/image/star (2).png" alt="" className="w-6" />
-          <img src="./public/image/star (2).png" alt="" className="w-6" />
-          <img src="./public/image/star (2).png" alt="" className="w-6" />
-          <img src="./public/image/star (1).png" alt="" className="w-6" />
+          <img src="/image/star (2).png" alt="" className="w-6" />
+          <img src="/image/star (2).png" alt="" className="w-6" />
+          <img src="/image/star (2).png" alt="" className="w-6" />
+          <img src="/image/star (2).png" alt="" className="w-6" />
+          <img src="/image/star (1).png" alt="" className="w-6" />
         </div>
       </div>
     </>

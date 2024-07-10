@@ -25,7 +25,7 @@ export default function Header({}) {
 
           <div className="items-center space-x-2 sm:hidden md:flex ">
             <div className="border border-[#1B2F37] rounded-full p-2">
-              <img src="./public/image/head.png" alt="" className="w-7" />
+              <img src="/image/head.png" alt="" className="w-7" />
             </div>
 
             <p className="font-extrabold text-xl">My Account</p>

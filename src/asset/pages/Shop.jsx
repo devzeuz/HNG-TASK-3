@@ -17,19 +17,19 @@ export default function Shop() {
       </div>
       <div className="flex items-center justify-center sm:space-x-5 md:space-x-16 mt-10 mb-20">
         <p>
-          <img src="./public/image/CaretLineLeft.png" alt="" />
+          <img src="/image/CaretLineLeft.png" alt="" />
         </p>
         <p>
-          <img src="./public/image/CaretLeft.png" alt="" />
+          <img src="/image/CaretLeft.png" alt="" />
         </p>
         <p className="text-3xl">1</p>
         <p className="text-3xl">2</p>
         <p className="text-3xl">3</p>
         <p>
-          <img src="./public/image/CaretRight.png" alt="" />
+          <img src="/image/CaretRight.png" alt="" />
         </p>
         <p>
-          <img src="./public/image/CaretLineRight.png" alt="" />
+          <img src="/image/CaretLineRight.png" alt="" />
         </p>
       </div>
     </>
