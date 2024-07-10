@@ -12,10 +12,10 @@ export default function Header({}) {
           <p>Explore </p>
         </div>
         <div className="flex space-x-5 items-center ">
-          <img src="./public/image/List.jpg" alt="now" className="md:hidden" />
+          <img src="/image/List.jpg" alt="now" className="md:hidden" />
           <Link to={"/cart"}>
             <div className="relative">
-              <img src="./public/image/ShoppingCart.jpg" alt="images" />
+              <img src="/image/ShoppingCart.jpg" alt="images" />
 
               <p className="absolute bg-red-700 p-1 rounded-full text-white top-0 right-0 bottom-2 flex  items-center">
                 0
