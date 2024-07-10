@@ -28,7 +28,7 @@ export default function CartItem() {
         })}
       </div>
 
-      <div>
+      <div className="m-5">
         <p className="text-lg font-bold">Subtotal: ₦{newTotalAmount}</p>
 
         <button className="text-lg mt-10 font-bold" onClick={handleCheckOut}>
